@@ -1,0 +1,33 @@
+.loginPage{
+    background: url('/image/micro.jpg');
+    background: linear-gradient(rgba(11,11,11,0.5),rgba(10,10,10,0.5)),url('/image/micro.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.loginForm{
+    background-color: rgba(4, 60, 17, 0.5);
+    color: white;
+}
+
+
+/* src/components/style.css */
+.table {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.table th,
+.table td {
+    text-align: left;
+}
+
+.table th {
+    background-color: #f8f9fa;
+}
+
+.container {
+    padding: 20px;
+}
+
